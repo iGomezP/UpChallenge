@@ -1,0 +1,12 @@
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\bin\Debug\net8.0\UpBack.Domain.deps.json
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\bin\Debug\net8.0\UpBack.Domain.dll
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\bin\Debug\net8.0\UpBack.Domain.pdb
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\obj\Debug\net8.0\UpBack.Domain.csproj.AssemblyReference.cache
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\obj\Debug\net8.0\UpBack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\obj\Debug\net8.0\UpBack.Domain.AssemblyInfoInputs.cache
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\obj\Debug\net8.0\UpBack.Domain.AssemblyInfo.cs
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\obj\Debug\net8.0\UpBack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\obj\Debug\net8.0\UpBack.Domain.dll
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\obj\Debug\net8.0\refint\UpBack.Domain.dll
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\obj\Debug\net8.0\UpBack.Domain.pdb
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Domain\obj\Debug\net8.0\ref\UpBack.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\bin\Debug\net8.0\UpBack.Application.deps.json
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\bin\Debug\net8.0\UpBack.Application.dll
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\bin\Debug\net8.0\UpBack.Application.pdb
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\bin\Debug\net8.0\UpBack.Domain.dll
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\bin\Debug\net8.0\UpBack.Domain.pdb
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\UpBack.Application.csproj.AssemblyReference.cache
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\UpBack.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\UpBack.Application.AssemblyInfoInputs.cache
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\UpBack.Application.AssemblyInfo.cs
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\UpBack.Application.csproj.CoreCompileInputs.cache
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\UpBack.A.65C2AD94.Up2Date
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\UpBack.Application.dll
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\refint\UpBack.Application.dll
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\UpBack.Application.pdb
+C:\Users\devig\OneDrive - MW Consulting S.A. de C.V\Escritorio\ChallengeUp\UpBack\UpBack.Application\obj\Debug\net8.0\ref\UpBack.Application.dll

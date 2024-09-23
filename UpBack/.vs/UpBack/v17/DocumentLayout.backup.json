@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Mios\\UpChallenge\\UpBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA7189A-E51E-482C-9342-C801040E4FDD}|UpBack.Infrastructure\\UpBack.Infrastructure.csproj|f:\\mios\\upchallenge\\upback\\upback.infrastructure\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA7189A-E51E-482C-9342-C801040E4FDD}|UpBack.Infrastructure\\UpBack.Infrastructure.csproj|solutionrelative:upback.infrastructure\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508308F-F4AD-42D6-A4A9-8E1BF631F098}|UpBack.Api\\UpBack.Api.csproj|f:\\mios\\upchallenge\\upback\\upback.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508308F-F4AD-42D6-A4A9-8E1BF631F098}|UpBack.Api\\UpBack.Api.csproj|solutionrelative:upback.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508308F-F4AD-42D6-A4A9-8E1BF631F098}|UpBack.Api\\UpBack.Api.csproj|f:\\mios\\upchallenge\\upback\\upback.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E508308F-F4AD-42D6-A4A9-8E1BF631F098}|UpBack.Api\\UpBack.Api.csproj|solutionrelative:upback.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E508308F-F4AD-42D6-A4A9-8E1BF631F098}|UpBack.Api\\UpBack.Api.csproj|f:\\mios\\upchallenge\\upback\\upback.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E508308F-F4AD-42D6-A4A9-8E1BF631F098}|UpBack.Api\\UpBack.Api.csproj|solutionrelative:upback.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|f:\\mios\\upchallenge\\upback\\upback.domain\\objectvalues\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|solutionrelative:upback.domain\\objectvalues\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|f:\\mios\\upchallenge\\upback\\upback.domain\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|solutionrelative:upback.domain\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|f:\\mios\\upchallenge\\upback\\upback.domain\\transactions\\event\\transactioncreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|solutionrelative:upback.domain\\transactions\\event\\transactioncreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|f:\\mios\\upchallenge\\upback\\upback.domain\\transactions\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|solutionrelative:upback.domain\\transactions\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87474F8C-6EB2-4FC5-99E0-9BE97375E745}|UpBack.Application\\UpBack.Application.csproj|f:\\mios\\upchallenge\\upback\\upback.application\\accounts\\commands\\transfertoaccount\\transfertoaccountdomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87474F8C-6EB2-4FC5-99E0-9BE97375E745}|UpBack.Application\\UpBack.Application.csproj|solutionrelative:upback.application\\accounts\\commands\\transfertoaccount\\transfertoaccountdomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87474F8C-6EB2-4FC5-99E0-9BE97375E745}|UpBack.Application\\UpBack.Application.csproj|f:\\mios\\upchallenge\\upback\\upback.application\\accounts\\commands\\transfertoaccount\\transfertoaccountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87474F8C-6EB2-4FC5-99E0-9BE97375E745}|UpBack.Application\\UpBack.Application.csproj|solutionrelative:upback.application\\accounts\\commands\\transfertoaccount\\transfertoaccountcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|f:\\mios\\upchallenge\\upback\\upback.domain\\accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5AB99-F3F4-4356-980C-4C524C454F8B}|UpBack.Domain\\UpBack.Domain.csproj|solutionrelative:upback.domain\\accounts\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2462,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\Accounts\\Account.cs",
+              "RelativeDocumentMoniker": "UpBack.Domain\\Accounts\\Account.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\Accounts\\Account.cs",
+              "RelativeToolTip": "UpBack.Domain\\Accounts\\Account.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAwwKAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:59:46.128Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\Transactions\\Transaction.cs",
+              "RelativeDocumentMoniker": "UpBack.Domain\\Transactions\\Transaction.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\Transactions\\Transaction.cs",
+              "RelativeToolTip": "UpBack.Domain\\Transactions\\Transaction.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA5wDkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:42:09.187Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\Customers\\Customer.cs",
+              "RelativeDocumentMoniker": "UpBack.Domain\\Customers\\Customer.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\Customers\\Customer.cs",
+              "RelativeToolTip": "UpBack.Domain\\Customers\\Customer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:38:44.404Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "UpBack.Api\\Controllers\\AccountsController.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Api\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "UpBack.Api\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADgv1QAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:44:33.695Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Infrastructure\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "UpBack.Infrastructure\\Email\\EmailService.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Infrastructure\\Email\\EmailService.cs",
+              "RelativeToolTip": "UpBack.Infrastructure\\Email\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:49:07.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UpBack.Api\\appsettings.Development.json",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Api\\appsettings.Development.json",
+              "RelativeToolTip": "UpBack.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T17:46:49.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Password.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\ObjectValues\\Password.cs",
+              "RelativeDocumentMoniker": "UpBack.Domain\\ObjectValues\\Password.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\ObjectValues\\Password.cs",
+              "RelativeToolTip": "UpBack.Domain\\ObjectValues\\Password.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:18:45.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionCreatedDomainEvent.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\Transactions\\Event\\TransactionCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "UpBack.Domain\\Transactions\\Event\\TransactionCreatedDomainEvent.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Domain\\Transactions\\Event\\TransactionCreatedDomainEvent.cs",
+              "RelativeToolTip": "UpBack.Domain\\Transactions\\Event\\TransactionCreatedDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:11:08.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Api\\Program.cs",
+              "RelativeDocumentMoniker": "UpBack.Api\\Program.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Api\\Program.cs",
+              "RelativeToolTip": "UpBack.Api\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:36:05.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransferToAccountDomainEventHandler.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Application\\Accounts\\Commands\\TransferToAccount\\TransferToAccountDomainEventHandler.cs",
+              "RelativeDocumentMoniker": "UpBack.Application\\Accounts\\Commands\\TransferToAccount\\TransferToAccountDomainEventHandler.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Application\\Accounts\\Commands\\TransferToAccount\\TransferToAccountDomainEventHandler.cs",
+              "RelativeToolTip": "UpBack.Application\\Accounts\\Commands\\TransferToAccount\\TransferToAccountDomainEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:22:25.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransferToAccountCommandHandler.cs",
+              "DocumentMoniker": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Application\\Accounts\\Commands\\TransferToAccount\\TransferToAccountCommandHandler.cs",
+              "RelativeDocumentMoniker": "UpBack.Application\\Accounts\\Commands\\TransferToAccount\\TransferToAccountCommandHandler.cs",
+              "ToolTip": "F:\\Mios\\UpChallenge\\UpBack\\UpBack.Application\\Accounts\\Commands\\TransferToAccount\\TransferToAccountCommandHandler.cs",
+              "RelativeToolTip": "UpBack.Application\\Accounts\\Commands\\TransferToAccount\\TransferToAccountCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:22:25.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
